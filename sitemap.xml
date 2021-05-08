@@ -2,10 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://kimyunbin.github.io/posts/</loc>
+    <lastmod>2021-05-09T01:17:35+09:00</lastmod>
+  </url><url>
+    <loc>https://kimyunbin.github.io/posts/second/</loc>
+    <lastmod>2021-05-09T01:17:35+09:00</lastmod>
+  </url><url>
+    <loc>https://kimyunbin.github.io/</loc>
+    <lastmod>2021-05-09T01:17:35+09:00</lastmod>
+  </url><url>
+    <loc>https://kimyunbin.github.io/posts/this-is-the-first-post/</loc>
+    <lastmod>2021-05-09T00:46:53+09:00</lastmod>
+  </url><url>
     <loc>https://kimyunbin.github.io/categories/</loc>
   </url><url>
     <loc>https://kimyunbin.github.io/tags/</loc>
-  </url><url>
-    <loc>https://kimyunbin.github.io/</loc>
   </url>
 </urlset>
